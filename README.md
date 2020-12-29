@@ -1,4 +1,4 @@
-# Splotch-Tuesday
+# Splatch-Tuesday
 
 
-Splotch Tuesday is a methodolgy and script to enable monthly "Patch Tuesday" like app updates to your JAMF environment. 
+Splatch Tuesday is a methodolgy and script to enable monthly "Patch Tuesday" like app updates to your JAMF environment. 
